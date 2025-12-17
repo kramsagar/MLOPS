@@ -1,3 +1,8 @@
+<img width="916" height="435" alt="image" src="https://github.com/user-attachments/assets/91f55308-548f-4e3b-8646-ed7dae3596cb" />
+
+we are going to use dvc which stores in cloud s3 bucket, blob these highly durable and cheap. in git we just maintain dvc config file. and run dvc commands to clone the data from dvc.
+
+
 # What is DVC?
 
 Think of DVC (Data Version Control) as Git for your data.
