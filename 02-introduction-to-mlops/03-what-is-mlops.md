@@ -17,6 +17,7 @@ Before DevOps:
 - Ops teams deployed and maintained it
 - Deployments were slow, manual, and risky
 - Failures were hard to debug
+
 The above process they need to repeat atleast 5 to 6 times to deploy into production. like they need develop in dev env, test it, then SIT, then UAT, then Test, then Production etc., so if they manually follow above steps it takes lot of time.
 
 DevOps introduced:
