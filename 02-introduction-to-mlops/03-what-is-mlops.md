@@ -38,6 +38,19 @@ The result:
 ## The Same Problem Happened in Machine Learning
 
 In ML, a similar gap appeared:
+I a company they trying to create a model for recommendation engine, they spend time 
+          1. collect data set
+          2. create model
+          3. trin and eval
+          4. package
+          5. save.
+Then they take help from operations team help to
+          1. create api
+          2. deploy in k8s
+          3. create Load balancer
+          4. create CDN
+
+overall this whole process iterate 10 - 20 times untill the accuracy reach and also it need ship from Dev to prod.
 
 - Data Scientists trained models in notebooks
 - Models worked locally
