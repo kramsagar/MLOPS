@@ -1,5 +1,7 @@
 ![Uploading image.png…]()
 
+
+
 # How Data Scientists Create a Simple Model
 
 Now that you know what machine learning is and what a model is, the next step is understanding how data scientists actually build one.
