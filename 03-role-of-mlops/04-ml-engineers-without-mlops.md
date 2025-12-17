@@ -3,6 +3,10 @@ Mainly ML engineer should take care of scalability, performance and API exposed 
 
 <img width="583" height="300" alt="image" src="https://github.com/user-attachments/assets/e9456d9b-62fb-4d67-a1f3-a08eba6191e6" />
 
+Expose API and Invoke:
+
+<img width="1087" height="932" alt="image" src="https://github.com/user-attachments/assets/8f343370-0119-471f-8af9-1bdc947da5ee" />
+
 
 # Role of an ML Engineer in a Project
 
