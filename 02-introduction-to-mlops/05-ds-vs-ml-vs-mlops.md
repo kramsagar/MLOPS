@@ -1,4 +1,4 @@
-# Data Scientist vs ML Engineer vs MLOps Engineer
+### Lets address the big elephant in the room that is - Difference between Data Scientist vs ML Engineer vs MLOps Engineer?
 
 ### Data Scientist – The “Brain Behind the Model”
 
