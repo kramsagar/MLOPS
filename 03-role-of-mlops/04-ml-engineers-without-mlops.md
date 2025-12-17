@@ -1,6 +1,7 @@
 So far with code checkin with githubworkflow, we are able to upload pipeline create to load into artifactory. so DS or ML engineers can download and test the artifact model. But how about end users those dont have access to model? 
+Mainly ML engineer should take care of scalability, performance and API exposed model for end users.
 
-<img width="561" height="211" alt="image" src="https://github.com/user-attachments/assets/54256896-d921-410d-9eeb-de6819ab40ef" />
+<img width="583" height="300" alt="image" src="https://github.com/user-attachments/assets/e9456d9b-62fb-4d67-a1f3-a08eba6191e6" />
 
 
 # Role of an ML Engineer in a Project
