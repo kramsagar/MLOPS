@@ -99,3 +99,6 @@ Data Scientist: Creates the model.
 ML Engineer: Turns the model into production code.
 
 MLOps Engineer: Builds the system that trains, deploys, scales, and monitors the model.
+
+<img width="863" height="493" alt="image" src="https://github.com/user-attachments/assets/2b6c1379-9516-447d-96bd-4cadbcc00bd3" />
+
