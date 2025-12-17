@@ -43,17 +43,12 @@ Better features → better model performance.
 
 Choose the right algorithm based on the problem and data:
 
-Linear Regression
-
-Decision Trees
-
-Random Forest
-
-Gradient Boosting
-
-Neural Networks
-
-etc.
+      1. Linear Regression
+      2. Decision Trees
+      3. Random Forest
+      4. Gradient Boosting
+      5. Neural Networks
+      7. etc.,
 
 ### Model Training
 
@@ -106,3 +101,7 @@ Retrain with new data.
 Update the pipeline when business logic or data changes.
 
 Version control for data, code, and models.
+
+
+<img width="972" height="507" alt="image" src="https://github.com/user-attachments/assets/879b6599-88f2-4a9e-852e-87dbe05fc3bd" />
+
