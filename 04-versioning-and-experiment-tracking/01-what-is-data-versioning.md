@@ -1,3 +1,9 @@
+Git managing the code versioning (model related) , rbac who can push/pull new version mode. but coming to data versioning we cannt use because, the data keeps change, data enrichment, feature engineering, cleaning etc., we need to keep track of all these. For these if we keep track in git, the size of data is huge like image data set, years of data in TB sometimes. so git will become huge size where git instance cant handle huge data. git pull for huge size cant handle such requests doing by multiple resource from same time perfromance issues, git holds TB data when you deploy git in cloud aws instances etc., it become cost ineffective. 
+that is why we need DVC
+
+<img width="881" height="422" alt="image" src="https://github.com/user-attachments/assets/c000493f-109e-444f-94e5-8d4a3b209d40" />
+
+
 # Data Versioning – Why Git Isn’t Enough?
 
 Git is amazing for versioning code — small, text-based files that change in predictable ways. But the moment you try to use Git to version data, everything starts breaking. Here’s why Git isn’t enough for real-world ML data versioning:
