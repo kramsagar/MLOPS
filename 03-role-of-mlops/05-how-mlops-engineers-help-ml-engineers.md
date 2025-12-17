@@ -1,5 +1,16 @@
 ## How MLOps Engineers Help ML Engineers
 
+So far we created API versioned of exposing the model. But it exposed from local host. How ML engineer expose to public and also take care of other infra activities - containerized, deployment, creating LB etc., that we need to understand.
+
+<img width="562" height="383" alt="image" src="https://github.com/user-attachments/assets/c722055d-9857-4de4-8fda-382c4512cae1" />
+
+create docker image:
+<img width="1007" height="487" alt="image" src="https://github.com/user-attachments/assets/bfd3a41d-3823-412c-9b0c-540481ca5b4c" />
+
+**How to containerize steps:**
+https://github.com/kramsagar/mlops-works/blob/main/how-to-containerizeapp.txt
+
+
 MLOps Engineers focus on the **infrastructure and automation side** so that ML Engineers can concentrate on **model logic and APIs**. Their goal is to make ML services reliable, scalable, and production-ready.
 
 ### Creating Dockerfile and Standardizing Runtime
