@@ -20,7 +20,8 @@ Before DevOps:
 
 The above process they need to repeat atleast 5 to 6 times to deploy into production. like they need develop in dev env, test it, then SIT, then UAT, then Test, then Production etc., so if they manually follow above steps it takes lot of time.
 
-DevOps introduced:
+DevOps introduced: Devops is a unified activitiy, these priniciples are standarized by industry and created certain process implementing via automtion tool and technologies:
+
 - Automation
 - CI/CD pipelines
 - Infrastructure as Code
