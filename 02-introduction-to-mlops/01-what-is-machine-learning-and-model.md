@@ -1,3 +1,6 @@
+<img width="602" height="265" alt="image" src="https://github.com/user-attachments/assets/582cb78f-f9c7-40cc-a7dc-a62fa194f3af" />
+
+
 # Fundamentals
 
 ### What Is Machine Learning?
