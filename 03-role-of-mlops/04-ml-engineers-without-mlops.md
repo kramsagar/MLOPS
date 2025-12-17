@@ -1,3 +1,6 @@
+So far with code checkin with githubworkflow, we are able to upload pipeline create to load into artifactory. so DS or ML engineers can download and test the artifact model. But how about end users those dont have access to model? 
+
+
 # Role of an ML Engineer in a Project
 
 Once a Data Scientist builds a working model, the question becomes:
