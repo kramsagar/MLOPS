@@ -81,3 +81,17 @@ MLOps takes proven DevOps ideas and applies them to ML systems.
 | Monitoring services | Monitoring model performance |
 | Rollbacks | Model version rollback |
 | Automation | End-to-end ML lifecycle automation |
+
+
+<img width="1091" height="525" alt="image" src="https://github.com/user-attachments/assets/6ba4c981-657e-44ef-a9fe-04da55799fff" />
+do we need to or mlops / devops co exist in every company ? yes
+
+          1. every company like netflix - create payment api follows devops,  recommendation egnine follows mlops
+          2. paypal company create UI and home page development and follow devops,  fradu detection engine follows mlops
+
+<img width="720" height="300" alt="image" src="https://github.com/user-attachments/assets/d4a6eacc-dd5e-4b77-8c4e-f6df26a02cb3" />
+
+<img width="862" height="333" alt="image" src="https://github.com/user-attachments/assets/b03cae5a-f4aa-4e3f-a4fe-33d768a8300f" />
+
+
+
