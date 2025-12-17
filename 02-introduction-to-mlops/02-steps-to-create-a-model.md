@@ -1,8 +1,4 @@
 
-![Uploading image.png…]()
-
-
-
 # How Data Scientists Create a Simple Model
 
 Now that you know what machine learning is and what a model is, the next step is understanding how data scientists actually build one.
@@ -115,3 +111,6 @@ Backend microservices
 MLOps pipelines
 
 This is what gets deployed.
+
+
+<img width="365" height="206" alt="image" src="https://github.com/user-attachments/assets/da93b1a1-346f-403f-a41a-f4c154b2a052" />
