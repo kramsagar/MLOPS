@@ -83,6 +83,9 @@ MLOps takes proven DevOps ideas and applies them to ML systems.
 | Automation | End-to-end ML lifecycle automation |
 
 
+<img width="1050" height="515" alt="image" src="https://github.com/user-attachments/assets/00a74f6a-a814-4c61-b975-16a89b200b0d" />
+
+
 <img width="1091" height="525" alt="image" src="https://github.com/user-attachments/assets/6ba4c981-657e-44ef-a9fe-04da55799fff" />
 do we need to or mlops / devops co exist in every company ? yes
 
