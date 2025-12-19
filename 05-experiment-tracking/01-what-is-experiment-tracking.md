@@ -1,3 +1,15 @@
+<img width="963" height="420" alt="image" src="https://github.com/user-attachments/assets/33f9742c-f134-445f-83a3-8e888f597f95" />
+Let say the target of model is 85%, 1. they try one model RF, with one kind of cv input got 67%, like it goes on with variety of change in input format, cleanup, features, platform (windows, linux) change, model chanes, paameter changes.
+what if i find my 3rd round of experiment results are good. then how can i go back and use same combinaton?
+Every experiment round 
+            1. we change parameters that need to save
+            2. code version - model or algorithm change - github
+            3. data set changes - dvc
+            4. metrics get changes over the period
+            5. artifact - generated model file - pkl - if store, we can go back use it
+            6. system information - if we know what platform we use, then we can repeat to get same results.
+               
+
 # What is Experiment Tracking?
 
 Experiment tracking is the process of **recording everything you do while training a machine learning model** so that you can:
