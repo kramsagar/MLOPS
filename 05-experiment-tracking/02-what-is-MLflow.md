@@ -134,4 +134,15 @@ In real projects, MLflow is often combined with:
 - Cloud storage like S3 (remote tracking)
 
 
+<img width="1045" height="453" alt="image" src="https://github.com/user-attachments/assets/27dd34bd-ca57-4740-a3c4-a2e4d1086750" />
+
+1.  Current days lot of Data scientists capture their experiment results, parameters in excel.
+2.  this is anti-patterns of mlops practices
+3.  otherside
+    1. mlflow is open source frame in enterprise can impement in steps
+        a. MLOPS engineer - engage then to create a instance of mlflow software and server.
+        b. Data scientist - they need to use mlflow package in their python code and integrate calling mlflow server connection. and pass              capuring trace info to mlflow server. this way every experiment, it keeps forward trace info to mlflow server.
+    
+
+
 
