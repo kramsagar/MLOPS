@@ -2,6 +2,7 @@
 Let say the target of model is 85%, 1. they try one model RF, with one kind of cv input got 67%, like it goes on with variety of change in input format, cleanup, features, platform (windows, linux) change, model chanes, paameter changes.
 what if i find my 3rd round of experiment results are good. then how can i go back and use same combinaton?
 Every experiment round 
+
             1. we change parameters that need to save
             2. code version - model or algorithm change - github
             3. data set changes - dvc
